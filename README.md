@@ -9,13 +9,13 @@ Thành viên nhóm :
 • Họ và tên: Trần Chí Bình – MSSV: B2509651
 # Mục tiêu
 Làm quen với Microsoft Access và cách quản lý dữ liệu.
-+1
+
 
 Xây dựng truy vấn (Query) để tìm kiếm dữ liệu theo điều kiện.
-+1
+
 
 Đánh giá độ tin cậy của nguồn thông tin trực tuyến (so sánh SQL vs NoSQL).
-+1
+
 
 # Cấu trúc dự án
 Dự án bao gồm các tệp tin sau:
