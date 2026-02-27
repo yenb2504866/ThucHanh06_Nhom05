@@ -22,15 +22,15 @@ Dự án bao gồm các tệp tin sau:
 
 
 BUOI06_MSSV_Ho_va_Ten.xlsx: Chứa dữ liệu bảng tính về Sinh viên, Môn học và Điểm số.
-+2
+
 
 
 BUOI06_MSSV_Ho_va_Ten.accdb: Cơ sở dữ liệu Access được chuyển đổi từ Excel và các truy vấn yêu cầu.
-+2
+
 
 
 BUOI06_MSSV_Ho_va_Ten.docx: Báo cáo chi tiết về chiến lược tìm kiếm và đánh giá nguồn tin theo tiêu chí CRAAP.
-+1
+
 
 # Nội dung thực hiện
 Phần 1: Quản trị Cơ sở dữ liệu (SQL)
